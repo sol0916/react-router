@@ -1,11 +1,11 @@
 import {Route, Routes} from "react-router-dom";
-import Home from "./conponent/Home.js";
-import Info from "./conponent/Info.js";
-import User from "./conponent/User.js";
-import Board from "./conponent/Board.js";
-import BoardContent from "./conponent/BoardContent.js";
+import Home from "./component/Home.js";
+import Info from "./component/Info.js";
+import User from "./component/User.js";
+import Board from "./component/Board.js";
+import BoardContent from "./component/BoardContent.js";
 import Header from "./layout/Header.js";
-import MyPage from "./conponent/MyPage.js";
+import MyPage from "./component/MyPage.js";
 
 function App() {
   return (
